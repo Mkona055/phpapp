@@ -25,3 +25,5 @@ VALUES('Big Co.','d7d85f7eac7360d725b44d327445473e' ),
 ### Exercice 3,4,5
 
 voir api.php
+
+Veuillez changer la ligne 9 avec vos identifiants 
